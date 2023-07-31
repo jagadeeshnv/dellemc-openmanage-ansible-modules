@@ -255,7 +255,7 @@ catalog_status:
         "BaseLocation": null,
         "BundlesCount": 0,
         "Filename": "catalog.gz",
-        "Id": 0,
+        "Id": 12,
         "LastUpdated": null,
         "ManifestIdentifier": null,
         "ManifestVersion": null,
